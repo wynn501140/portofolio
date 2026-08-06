@@ -17,7 +17,6 @@ export default function Footer() {
             <div className="contact-row">
               <span className="ico">💼</span> linkedin.com/in/ibn-syech-b35018397
             </div>
-<<<<<<< HEAD
             <a href="https://github.com/wynn501140" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico">🐙</span> github.com/wynn501140
             </a>
@@ -27,7 +26,7 @@ export default function Footer() {
             <a href="https://t.me/Mywynn" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico">✈️</span> Telegram — @Mywynn (kerja/freelance)
             </a>
-=======
+
             <div className="contact-row soon">
               <span className="ico">🐙</span> GitHub — username menyusul
             </div>
@@ -37,7 +36,6 @@ export default function Footer() {
             <div className="contact-row soon">
               <span className="ico">✈️</span> Telegram (kerja/freelance) — username menyusul
             </div>
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
           </div>
         </div>
 

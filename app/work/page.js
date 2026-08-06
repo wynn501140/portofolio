@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 import Image from "next/image";
 
-=======
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
 export const metadata = {
   title: "Work — Muhammad Syech Shahab",
 };
@@ -13,11 +11,8 @@ const projects = [
     tags: ["Node.js", "Tailwind"],
     title: "Full-Stack Web Development Project",
     desc: "Custom-coded website with responsive layouts and backend logic, built collaboratively in a group project.",
-<<<<<<< HEAD
+
     link: "https://github.com/askiafp/digital-wardrobe", // TODO: ganti dengan link GitHub asli
-=======
-    link: "#", // TODO: ganti dengan link GitHub asli
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
     linkLabel: "View on GitHub →",
   },
   {
@@ -25,11 +20,7 @@ const projects = [
     tags: ["Python", "Telegram API"],
     title: "Smart Device Assistant App",
     desc: "All-in-one device assistant with app/file management and remote access via Telegram, with IP-based security.",
-<<<<<<< HEAD
     link: "https://github.com/wynn501140/my-assistant", // TODO: ganti dengan link GitHub asli
-=======
-    link: "#", // TODO: ganti dengan link GitHub asli
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
     linkLabel: "View on GitHub →",
   },
   {
@@ -37,11 +28,7 @@ const projects = [
     tags: ["Figma", "UI/UX"],
     title: "Healthcare Web UI/UX Design",
     desc: "High-fidelity, user-centered UI design for a healthcare web app, from user flows to accessible interfaces.",
-<<<<<<< HEAD
     link: "https://lnkd.in/p/exiD6aAw", // TODO: ganti dengan link LinkedIn post/prototype
-=======
-    link: "#", // TODO: ganti dengan link LinkedIn post/prototype
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
     linkLabel: "View Prototype on LinkedIn →",
   },
   {
@@ -49,13 +36,8 @@ const projects = [
     tags: ["SQL", "Supabase"],
     title: "Public Service Big Data System",
     desc: "Proof-of-concept backend & big data architecture to monitor real-time public service performance.",
-<<<<<<< HEAD
     link: "https://matter-hug-02318433.figma.site/",
     linkLabel: "View live demo dashboard →",
-=======
-    link: null,
-    linkLabel: "Case study coming soon",
->>>>>>> fae97efe97cd6d65b3863e88937a2a8d455ff66e
   },
 ];
 
