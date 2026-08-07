@@ -18,24 +18,14 @@ export default function Footer() {
               <span className="ico">💼</span> linkedin.com/in/ibn-syech-b35018397
             </div>
             <a href="https://github.com/wynn501140" target="_blank" rel="noopener noreferrer" className="contact-row">
-              <span className="ico">🐙</span> github.com/wynn501140
+              <span className="ico">👾</span> github.com/wynn501140
             </a>
             <a href="https://instagram.com/ibn.syahab._" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico">📸</span> @ibn.syahab._
             </a>
             <a href="https://t.me/Mywynn" target="_blank" rel="noopener noreferrer" className="contact-row">
-              <span className="ico">✈️</span> Telegram — @Mywynn (kerja/freelance)
+              <span className="ico">➤</span> Telegram — @Mywynn 
             </a>
-
-            <div className="contact-row soon">
-              <span className="ico">🐙</span> GitHub — username menyusul
-            </div>
-            <div className="contact-row soon">
-              <span className="ico">📸</span> Instagram — username menyusul
-            </div>
-            <div className="contact-row soon">
-              <span className="ico">✈️</span> Telegram (kerja/freelance) — username menyusul
-            </div>
           </div>
         </div>
 
