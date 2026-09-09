@@ -9,7 +9,7 @@ const projects = [
   {
     icon: "🌐",
     tags: ["Node.js", "Tailwind"],
-    title: "Full-Stack Web Development Project",
+    title: "Front-end Web Development Project",
     desc: "Custom-coded website with responsive layouts and backend logic, built collaboratively in a group project.",
 
     link: "https://github.com/askiafp/digital-wardrobe", // TODO: ganti dengan link GitHub asli
