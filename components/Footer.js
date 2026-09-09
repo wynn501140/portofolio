@@ -12,11 +12,14 @@ export default function Footer() {
 
           <div className="footer-contacts">
             <div className="contact-row">
+              <span className="ico"> </span> ibnsyech04@gmail.com
+            </div>
+            <a href="/contact" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico"></span> ibnsyech04@gmail.com
-            </div>
-            <div className="contact-row">
-              <span className="ico"></span> linkedin.com/in/ibn-syech-b35018397
-            </div>
+            </a>
+            <a href="linkedin.com/in/ibn-syech-b35018397" target="_blank" rel="noopener noreferrer" className="contact-row">
+              <span className="ico"></span> My LinkedIn
+            </a>
             <a href="https://github.com/wynn501140" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico"></span> github.com/wynn501140
             </a>
