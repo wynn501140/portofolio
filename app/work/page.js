@@ -8,9 +8,9 @@ export const metadata = {
 const projects = [
   {
     icon: "🌐",
-    tags: ["Node.js", "Tailwind"],
+    tags: ["React.js", "Node.js", "Tailwind"],
     title: "Front-end Web Development Project",
-    desc: "Custom-coded website with responsive layouts and backend logic, built collaboratively in a group project.",
+    desc: "Custom-coded website with responsive layouts, built collaboratively in a group project.",
 
     link: "https://github.com/askiafp/digital-wardrobe", // TODO: ganti dengan link GitHub asli
     linkLabel: "View on GitHub →",

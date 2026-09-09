@@ -12,10 +12,10 @@ export default function HomePage() {
               Hi, I&apos;m Syech —<br />
               I build systems, <span className="accent">web &amp; AI</span>, end to end.
             </h1>
-            <div className="hero-role">Full-Stack Web Developer &amp; AI Engineer</div>
+            <div className="hero-role">Front-end Web Developer &amp; AI Engineer</div>
             <p className="hero-desc">
               IT Systems student with hands-on experience managing real project lifecycles —
-              now channeling that into building full-stack web apps and AI-driven tools, from
+              now channeling that into building frontend web apps and AI-driven tools, from
               database to deployment.
             </p>
             <div className="btn-row">
@@ -38,7 +38,7 @@ export default function HomePage() {
               <div><span className="prompt">$</span> whoami</div>
               <div className="out">Muhammad Syech Shahab</div>
               <div><span className="prompt">$</span> role --current</div>
-              <div className="out">Full-Stack Developer &amp; AI Engineer</div>
+              <div className="out">Front-end Developer &amp; AI Engineer</div>
               <div><span className="prompt">$</span> stack</div>
               <div className="out val">React · Next.js · Node.js · Python · SQL</div>
               <div><span className="prompt">$</span> status.open_to_work</div>
@@ -62,10 +62,10 @@ export default function HomePage() {
           <div className="services-grid">
             <div className="service-card">
               <div className="service-icon">🖥️</div>
-              <h3>Full-Stack Web Development</h3>
+              <h3>Front-end Web Development</h3>
               <p>
                 Building responsive, production-ready web apps with React/Next.js on the
-                front-end and Node.js or Python on the back-end.
+                front-end and Node.js.
               </p>
             </div>
             <div className="service-card">
