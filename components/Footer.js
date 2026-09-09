@@ -11,9 +11,6 @@ export default function Footer() {
           </div>
 
           <div className="footer-contacts">
-            <div className="contact-row">
-              <span className="ico"> </span> ibnsyech04@gmail.com
-            </div>
             <a href="/contact" target="_blank" rel="noopener noreferrer" className="contact-row">
               <span className="ico"></span> ibnsyech04@gmail.com
             </a>
